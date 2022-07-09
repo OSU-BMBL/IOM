@@ -36,4 +36,4 @@ python ./matrix.py -input ./p15/filter_reads/re/shortread_clean_2.fastq
 ```
 Finally, the output file ./p15/filter_reads/re/read_count_label.tsv is the microbal-cell matrix file.
 # Contact #
-Any questions, problems, or bugs are welcome and should be dumped to [Qin Ma](Qin.Ma@osumc.edu).
+Any questions, problems, or bugs are welcome and should be dumped to [Qin Ma](mailto:Qin.Ma@osumc.edu).
